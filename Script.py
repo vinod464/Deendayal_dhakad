@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/KannadaMagaa">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/KannadaMagaa>[ᴋᴀɴɴᴀᴅᴀᴍᴀɢᴀᴀ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+TWPh_CxArAQ5YWM1">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/+TWPh_CxArAQ5YWM1>[ᴠʀᴍᴏᴠɪᴇꜱ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
