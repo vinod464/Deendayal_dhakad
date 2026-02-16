@@ -176,9 +176,9 @@ else:
     ON_HEROKU = False
 HAS_SSL = bool(getenv('HAS_SSL', True))
 if HAS_SSL:
-    URL = "https://key-gloria-ravikumar-c69e0d15.koyeb.app/".format(FQDN)
+    URL = "https://quixotic-janetta-ravikumar-d47d740f.koyeb.app/".format(FQDN)
 else:
-    URL = "https://key-gloria-ravikumar-c69e0d15.koyeb.app/".format(FQDN)
+    URL = "https://quixotic-janetta-ravikumar-d47d740f.koyeb.app/".format(FQDN)
 
 # ============================
 # Reactions Configuration
