@@ -62,7 +62,7 @@ OWNER_UPI_ID = environ.get('OWNER_UPI_ID', '@Vinuvins')
 # MongoDB Configuration
 # ============================
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://martinmovie7:Arpita123@cluster0.31rvywu.mongodb.net/?appName=Cluster0")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://martinmovie7:Arpita123@cluster0.31rvywu.mongodb.net/?appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Arpita123")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Deendayal_files')
 
