@@ -85,8 +85,8 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/howtodownload212')  #
 # Link Shortener Configuration
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'fe59e9844a1631ea96eafec0124b071eb31bb400')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'http://Softurl.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'b190ddb7497d07a28b430e293ae9c70ff6f6570f')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtodownload212')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
